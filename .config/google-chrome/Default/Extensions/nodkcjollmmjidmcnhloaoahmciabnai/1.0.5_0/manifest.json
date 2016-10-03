@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://online-video-cutter.com/"
+      },
+      "urls": [ "http://online-video-cutter.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3wRZho8hkWOXZ87XLpDh5Oyhs/YXvRWXToiM3/aqIZ8VnCywbXmxUchJJq+zvAGAUduQuAmFBtu4MXatTFjDgRJgJujKD7TgXqGT67PEmuNi1tWzzgP5gXFZXNPe0t6EeffH8Gwr+8i3oQDkvwYEm94bPYBBPkGQHDcxzayUZlQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.5"
+}

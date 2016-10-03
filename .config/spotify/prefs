@@ -1,0 +1,8 @@
+app.autostart-configured=true
+storage.last-location="/home/zero/.cache/spotify/Storage"
+app.autostart-mode=""
+autologin.username="Infinite-Z3R0"
+autologin.saved_credentials="{\"infinite-z3r0\":[\"Infinite-Z3R0\",\"1a5WFc3wHiMusOc+C6duPo/i3kpDR+E/fAoHNjMtRzLLGSSy8Cm/Z5pc6gDjszgM\"]}"
+core.clock_delta=2
+autologin.canonical_username="infinite-z3r0"
+autologin.blob="1a5WFc3wHiMusOc+C6duPo/i3kpDR+E/fAoHNjMtRzLLGSSy8Cm/Z5pc6gDjszgM"

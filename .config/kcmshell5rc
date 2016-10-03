@@ -1,0 +1,13 @@
+[KFileDialog Settings]
+Height 1080=540
+Recent Files[$e]=Untitled-2.png,file:$HOME/Pictures/Untitled-2.png
+Recent URLs[$e]=file:$HOME/Pictures/
+Width 2560=1280
+
+[KPropertiesDialog]
+Height 1080=450
+Width 2560=418
+
+[Open-with settings]
+CompletionMode=5
+History=ksuperkey

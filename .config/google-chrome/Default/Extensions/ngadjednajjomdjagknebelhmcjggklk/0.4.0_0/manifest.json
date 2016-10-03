@@ -1,0 +1,22 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/jquery-1.7.2.min.js", "js/content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "description": "Extension shows image size on hover in a minimalistic way",
+   "icons": {
+      "128": "icon128.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4TQRbVE15qKID2uzU5FjFn+AN1H1JkqyOkkrf/HYcJ5Ni6agf28PhY2P8DK9uuoZePbmH/YaURNclqMshrjnb6t8LLg7tb9jincQJvtm+plH/G8Vc9rLYmXKDUQ6JGqnc6+bzM/FFTXNvWujQ59qpeSJOL+YH0OljA1uaKZms0QIDAQAB",
+   "manifest_version": 2,
+   "name": "Image Resolution",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.4.0"
+}
